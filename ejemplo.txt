@@ -1,0 +1,4 @@
+class vendedor{
+	Date fecha;
+	int codigo;
+}

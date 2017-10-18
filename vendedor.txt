@@ -1,0 +1,4 @@
+class vendedor{
+	String nombre;
+	int cedula;
+}
